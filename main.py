@@ -31,7 +31,7 @@ REQUIRED_CHANNELS = [
     #"@+2P-OUmWo1hc0NmNh",
    # "@fasttech3",
     "@h2icoder",
-    "@freeptpss",
+    "@freeotpss",
     "@tips_tricks_shop",
     "@SigmaXBan"
 ]
