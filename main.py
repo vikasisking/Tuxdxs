@@ -33,7 +33,7 @@ REQUIRED_CHANNELS = [
     "@h2icoder",
     "@freeotpss",
     "@tips_tricks_shop",
-    "@+pG-1Ka8IixthMzNk"
+    #"@+pG-1Ka8IixthMzNk"
 ]
 #channel2 = [ "@+F4Md7IotaqcxN2I9" ]
 # Store user IDs who have started the bot
