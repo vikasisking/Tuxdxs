@@ -31,8 +31,8 @@ REQUIRED_CHANNELS = [
     #"@+2P-OUmWo1hc0NmNh",
    # "@fasttech3",
     "@h2icoder",
-    "@freeotpss",
-    "@tips_tricks_shop"
+    "@freeotpss"
+    #"@tips_tricks_shop"
     #"@+pG-1Ka8IixthMzNk"
 ]
 #channel2 = [ "@+F4Md7IotaqcxN2I9" ]
